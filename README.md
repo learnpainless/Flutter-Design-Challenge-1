@@ -1,16 +1,12 @@
-# fdc_1
+# Flutter Design Challenge 1
 
-A new Flutter project.
+This tutorial is for absolute beginners or beginners.
+In this video, I have designed a random design from Dribbble in Flutter without using any third-party library or tool,
 
-## Getting Started
+Here is the Link to Design and Design credit goes to Svetlana Kolpakova on Dribbble.
 
-This project is a starting point for a Flutter application.
+[Finance Tracker Mobile iOS App - Dribbble](https://dribbble.com/shots/23845193-Finance-Tracker-Mobile-iOS-App)
 
-A few resources to get you started if this is your first Flutter project:
+## YouTube Video Link
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[![Flutter Design Challenge 1 | Finance Tracker Mobile iOS App Dribbble Design](https://img.youtube.com/vi/qLfAu9d8tUc/0.jpg)](https://www.youtube.com/watch?v=qLfAu9d8tUc)
